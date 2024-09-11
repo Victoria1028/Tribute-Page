@@ -1,0 +1,78 @@
+h1{background-color: rgb(137, 177, 202);
+    block-size: 90px;
+    font-size: 60px;
+    width: 50%;
+    color: rgb(255, 255, 255);
+    font-family: "Indie Flower", cursive;
+    border-style: solid;
+    border-color: rgb(137, 177, 202);
+    border-radius: 10px;
+    }
+    
+body{
+    background-color: rgb(218, 241, 255);
+    background-size: cover;
+    background-position: center top;
+    }
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+    }
+
+img{
+    border-style: solid;
+    border-color: white;
+    border-width: 10px;
+    }
+
+p{
+    font-family: "Quicksand", sans-serif;
+    font-size: 20px;
+    }
+
+figcaption{
+    font-family: "Quicksand", sans-serif;
+    color: rgb(137, 177, 202);
+    font-size: 18px;
+    text-align: center;
+    }
+
+h2{
+    font-family: "Indie Flower", cursive;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    background-color: rgb(137, 177, 202);
+    width: 50%;
+    block-size: 50px;
+    border-style: solid;
+    border-color: rgb(137, 177, 202);
+    border-radius: 10px
+    }
+
+ol{
+    font-family: "Quicksand", sans-serif;
+    font-size: 20px;
+    text-align: center;
+    block-size: 50%;
+    }
+
+footer{
+    font-family: "Quicksand", sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(137, 177, 202);
+    }
+
+.achievements{
+    text-align: center;
+    }
+
+.list{
+    display: inline-block;
+    text-align: left;
+    }
